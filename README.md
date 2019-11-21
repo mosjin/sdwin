@@ -1,2 +1,6 @@
-# sdwin
-Shutdown window
+# Sdwin
+Shutdown Window.
+
+
+
+See FunCnsdwin/readme.txt for details.
